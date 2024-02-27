@@ -1,2 +1,3 @@
 # hugo-mock-landing-page
-Landing page for DJ-GPT, my imaginary product for CIS 3500 HW1 
+
+Hugo landing page for DJ-GPT - An AI-Powered Assistant for DJs, VJs, and Sound Technicians, designed to elevate the club, festival, and casual DJ experience for audiences everywhere.
