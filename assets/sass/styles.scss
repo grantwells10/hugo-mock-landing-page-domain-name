@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .home {
     --bd-purple: #4c0bce;
     --bd-violet: #712cf9;
@@ -8,22 +12,24 @@
 
     .bd-masthead {
         padding: 3rem 0;
-        background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bs-primary-rgb), 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+        background-color: black;
+        //used GPT for this formula
+        background-image: linear-gradient(180deg, rgba(75, 0, 130, 1), rgba(0, 0, 0, 1) 85%), radial-gradient(ellipse at top left, rgba(128, 0, 128, 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(0, 0, 0, 0.5), transparent 50%), radial-gradient(ellipse at center right, rgba(75, 0, 130, 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(0, 0, 0, 0.5), transparent 50%);
     }
 
     .btn-bd-primary {
         --bs-btn-font-weight: 600;
-        --bs-btn-color: var(--bs-white);
-        --bs-btn-bg: var(--bd-violet);
-        --bs-btn-border-color: var(--bd-violet);
-        --bs-btn-border-radius: .5rem;
+        --bs-btn-color: var(--bs-white); 
+        --bs-btn-bg: rgba(75, 0, 130, 1);
+        --bs-btn-border-color: rgba(75, 0, 130, 1); 
+        --bs-btn-border-radius: .5rem; 
         --bs-btn-hover-color: var(--bs-white);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
-        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
-        --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
+        --bs-btn-hover-bg: #5a23c8;
+        --bs-btn-hover-border-color: #5a23c8; 
+        --bs-btn-focus-shadow-rgb: 75, 0, 130; 
+        --bs-btn-active-color: var(--bs-white); 
+        --bs-btn-active-bg: #4e1aa3; 
+        --bs-btn-active-border-color: #4e1aa3; 
     }
 }
 
