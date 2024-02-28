@@ -3,7 +3,7 @@ title = "DJ-GPT"
 author = "Grant Wells"
 copyright = "Grant Wells"
 
-timeZone = 'Europe/London'
+timeZone = 'EST'
 
 # Multilingual
 defaultContentLanguage = "en"
