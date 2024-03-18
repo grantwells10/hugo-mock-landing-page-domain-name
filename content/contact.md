@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-Email me at <@gawells.seas.upenn.edu> if there is an issue.
+[Open an issue](https://github.com/grantwells10/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
