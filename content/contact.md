@@ -6,6 +6,6 @@ menu:
     weight: 90
 ---
 
-# Contact
+## Contact
 
 [Open an issue](https://github.com/grantwells10/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
