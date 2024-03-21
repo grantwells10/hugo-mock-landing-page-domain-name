@@ -8,4 +8,4 @@ menu:
 
 ## Contact
 
-[Open an issue](https://github.com/grantwells10/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
+[Open an ifjsidfsifjfsssue](https://github.com/grantwells10/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
